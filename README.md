@@ -1,2 +1,13 @@
-## Antônio nasceu com uma paixão inegável por motores roncando e estradas se estendendo ao horizonte. Desde jovem, ele se via atraído pelo rugido das motocicletas, um chamado constante que o levava a explorar novos destinos e aventuras sobre duas rodas.
-- Eu estudo no [Alura](https://www.alura.com.br
+## Meu nome é Antônio!
+
+
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguangem JavaScript.
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+### Você pode entra em contato comigo 📧
+
+00001137249377sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/Ak1wRC3wztQAAAAd/squad-team.gif)
